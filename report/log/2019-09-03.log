@@ -1,0 +1,625 @@
+2019-09-03 13:20:13,729 - root - INFO - SUCCESS    Start a new browser: Firefox, Spend 0.0 seconds
+2019-09-03 13:22:07,174 - root - INFO - ############################### START ###############################
+2019-09-03 13:22:13,975 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 6.799766540527344 seconds
+2019-09-03 13:22:14,251 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.27572178840637207 seconds
+2019-09-03 13:22:17,976 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/, Spend 3.7234325408935547 seconds
+2019-09-03 13:22:17,981 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003988981246948242 seconds
+2019-09-03 13:22:18,276 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div[1]/ul/li[3]/div>, Spend 0.29421305656433105 seconds
+2019-09-03 13:22:21,093 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="index_body"]/div[1]/ul/li[3]/ul/li[1]/a>, Spend 2.816065549850464 seconds
+2019-09-03 13:22:21,098 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003990650177001953 seconds
+2019-09-03 13:22:21,998 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.8983261585235596 seconds
+2019-09-03 13:22:21,998 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:22:22,147 - root - INFO - ############################### START ###############################
+2019-09-03 13:22:27,224 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.075908422470093 seconds
+2019-09-03 13:22:27,490 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.263293981552124 seconds
+2019-09-03 13:22:29,357 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/, Spend 1.8645899295806885 seconds
+2019-09-03 13:22:29,367 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.007989883422851562 seconds
+2019-09-03 13:22:29,647 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div[1]/ul/li[3]/div>, Spend 0.27924680709838867 seconds
+2019-09-03 13:22:31,128 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="index_body"]/div[1]/ul/li[3]/ul/li[1]/a>, Spend 1.4800920486450195 seconds
+2019-09-03 13:22:31,135 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004984617233276367 seconds
+2019-09-03 13:22:31,390 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='screening_wrapper']/div[3]/div/div/div[3]/a/div/div>, Spend 0.2533247470855713 seconds
+2019-09-03 13:22:31,399 - root - INFO - SUCCESS    Switch to the new window,new window's url: about:blank, Spend 0.007973432540893555 seconds
+2019-09-03 13:22:33,259 - root - INFO - SUCCESS    Clicked element: <id->goto_combination>, Spend 1.8601245880126953 seconds
+2019-09-03 13:22:36,570 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="recommend_part"]/div/div/div[2]/div/div[1]/div[2]/div/div/div>, Spend 0.30515599250793457 seconds
+2019-09-03 13:22:39,592 - root - INFO - FAIL    Unable to click element: <xpath->//*[@id="suite-pop-footer-2416"]/dl[1]/dd/div[2]>, Spend 0.01894974708557129 seconds
+2019-09-03 13:22:40,624 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0312423706054688 seconds
+2019-09-03 13:22:40,624 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:24:53,962 - root - INFO - ############################### START ###############################
+2019-09-03 13:24:59,130 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.1652445793151855 seconds
+2019-09-03 13:24:59,398 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2664344310760498 seconds
+2019-09-03 13:25:06,377 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 6.978144407272339 seconds
+2019-09-03 13:25:06,382 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003952503204345703 seconds
+2019-09-03 13:25:06,629 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[2]/ul[1]/li[2]>, Spend 0.2459867000579834 seconds
+2019-09-03 13:25:06,632 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0029587745666503906 seconds
+2019-09-03 13:25:06,863 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.22994112968444824 seconds
+2019-09-03 13:25:06,908 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.04340839385986328 seconds
+2019-09-03 13:25:07,144 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.2353684902191162 seconds
+2019-09-03 13:25:07,175 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.030918121337890625 seconds
+2019-09-03 13:25:07,179 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.002992391586303711 seconds
+2019-09-03 13:25:08,162 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.9825353622436523 seconds
+2019-09-03 13:25:19,192 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0278949737548828 seconds
+2019-09-03 13:25:19,193 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:25:19,194 - root - INFO - ############################### START ###############################
+2019-09-03 13:25:23,804 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.609569072723389 seconds
+2019-09-03 13:25:24,074 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.26907992362976074 seconds
+2019-09-03 13:25:25,579 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.5032873153686523 seconds
+2019-09-03 13:25:25,584 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003999948501586914 seconds
+2019-09-03 13:25:25,827 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[2]/ul[1]/li[2]>, Spend 0.24279046058654785 seconds
+2019-09-03 13:25:25,830 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.001992940902709961 seconds
+2019-09-03 13:25:26,061 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.2301173210144043 seconds
+2019-09-03 13:25:26,100 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.037906646728515625 seconds
+2019-09-03 13:25:26,380 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.27726006507873535 seconds
+2019-09-03 13:25:26,404 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.024556636810302734 seconds
+2019-09-03 13:25:26,408 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.002639293670654297 seconds
+2019-09-03 13:25:27,722 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 1.3116211891174316 seconds
+2019-09-03 13:25:38,456 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/me, Spend 0.7310595512390137 seconds
+2019-09-03 13:25:38,721 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="new_address_btn"]>, Spend 0.2640376091003418 seconds
+2019-09-03 13:25:49,545 - root - INFO - SUCCESS    Clear and type element: <id->address_text> content: 马泉营二区100号, Spend 0.05827450752258301 seconds
+2019-09-03 13:25:49,587 - root - INFO - SUCCESS    Clear and type element: <id->receipt_name> content: zhaoyan, Spend 0.04088854789733887 seconds
+2019-09-03 13:25:49,631 - root - INFO - SUCCESS    Clear and type element: <id->receipt_phone> content: 18611404533, Spend 0.04188203811645508 seconds
+2019-09-03 13:25:49,863 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="edit_address_pop"]/div[4]/div[2]>, Spend 0.23170733451843262 seconds
+2019-09-03 13:25:55,143 - root - INFO - SUCCESS    Move to element: <xpath->//*[@id="div-address-all"]/div[2]/div[1]>, Spend 0.2789943218231201 seconds
+2019-09-03 13:25:58,158 - root - INFO - FAIL    Unable to click element: <class->set-default-address>, Spend 0.012725114822387695 seconds
+2019-09-03 13:25:59,167 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0082213878631592 seconds
+2019-09-03 13:25:59,168 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:27:10,489 - root - INFO - ############################### START ###############################
+2019-09-03 13:27:15,099 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.609181880950928 seconds
+2019-09-03 13:27:15,368 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2675929069519043 seconds
+2019-09-03 13:27:17,009 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.6407339572906494 seconds
+2019-09-03 13:27:17,012 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0020186901092529297 seconds
+2019-09-03 13:27:17,256 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[2]/ul[1]/li[2]>, Spend 0.24331021308898926 seconds
+2019-09-03 13:27:17,259 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.001993894577026367 seconds
+2019-09-03 13:27:17,491 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23139214515686035 seconds
+2019-09-03 13:27:17,533 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.04089093208312988 seconds
+2019-09-03 13:27:17,868 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.3341071605682373 seconds
+2019-09-03 13:27:18,059 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.18949365615844727 seconds
+2019-09-03 13:27:18,062 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0020194053649902344 seconds
+2019-09-03 13:27:19,036 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.9732916355133057 seconds
+2019-09-03 13:27:29,327 - root - INFO - SUCCESS    Move to element: <class->login>, Spend 0.2887270450592041 seconds
+2019-09-03 13:27:33,130 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="index_body"]/div[1]/div[1]/div/div/div/a[2]>, Spend 0.8022382259368896 seconds
+2019-09-03 13:27:36,145 - root - INFO - FAIL    Unable to click element: <xpath->/html/body/div[2]/div>, Spend 0.01383829116821289 seconds
+2019-09-03 13:27:37,139 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.992767333984375 seconds
+2019-09-03 13:27:37,140 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:27:37,163 - root - INFO - ############################### START ###############################
+2019-09-03 13:27:41,802 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.637590408325195 seconds
+2019-09-03 13:27:42,077 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2740356922149658 seconds
+2019-09-03 13:27:43,982 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/, Spend 1.9041388034820557 seconds
+2019-09-03 13:27:43,987 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002991199493408203 seconds
+2019-09-03 13:27:44,265 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div[1]/ul/li[3]/div>, Spend 0.27573370933532715 seconds
+2019-09-03 13:27:45,856 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="index_body"]/div[1]/ul/li[3]/ul/li[1]/a>, Spend 1.5912110805511475 seconds
+2019-09-03 13:27:45,864 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0069429874420166016 seconds
+2019-09-03 13:27:46,822 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.9565365314483643 seconds
+2019-09-03 13:27:46,823 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:27:46,824 - root - INFO - ############################### START ###############################
+2019-09-03 13:27:51,434 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.609973907470703 seconds
+2019-09-03 13:27:51,713 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.27662110328674316 seconds
+2019-09-03 13:27:53,996 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/, Spend 2.2828421592712402 seconds
+2019-09-03 13:27:54,001 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002984762191772461 seconds
+2019-09-03 13:27:54,285 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div[1]/ul/li[3]/div>, Spend 0.2823340892791748 seconds
+2019-09-03 13:27:55,770 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="index_body"]/div[1]/ul/li[3]/ul/li[1]/a>, Spend 1.4847755432128906 seconds
+2019-09-03 13:27:55,774 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003992319107055664 seconds
+2019-09-03 13:27:56,043 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='screening_wrapper']/div[3]/div/div/div[3]/a/div/div>, Spend 0.26767635345458984 seconds
+2019-09-03 13:27:56,050 - root - INFO - SUCCESS    Switch to the new window,new window's url: about:blank, Spend 0.006979703903198242 seconds
+2019-09-03 13:27:57,392 - root - INFO - SUCCESS    Clicked element: <id->goto_combination>, Spend 1.340761423110962 seconds
+2019-09-03 13:28:00,720 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="recommend_part"]/div/div/div[2]/div/div[1]/div[2]/div/div/div>, Spend 0.3224830627441406 seconds
+2019-09-03 13:28:03,756 - root - INFO - FAIL    Unable to click element: <xpath->//*[@id="suite-pop-footer-2416"]/dl[1]/dd/div[2]>, Spend 0.03406953811645508 seconds
+2019-09-03 13:28:04,805 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0486149787902832 seconds
+2019-09-03 13:28:04,806 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:28:04,806 - root - INFO - ############################### START ###############################
+2019-09-03 13:28:09,442 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.634332895278931 seconds
+2019-09-03 13:28:09,704 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.26100659370422363 seconds
+2019-09-03 13:28:11,199 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.4938454627990723 seconds
+2019-09-03 13:28:11,202 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0030236244201660156 seconds
+2019-09-03 13:28:11,445 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[2]/ul[1]/li[2]>, Spend 0.24300789833068848 seconds
+2019-09-03 13:28:11,448 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.001993417739868164 seconds
+2019-09-03 13:28:11,681 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23329901695251465 seconds
+2019-09-03 13:28:11,720 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.03783988952636719 seconds
+2019-09-03 13:28:11,991 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.2693047523498535 seconds
+2019-09-03 13:28:12,018 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.026926279067993164 seconds
+2019-09-03 13:28:12,026 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.00647425651550293 seconds
+2019-09-03 13:28:12,878 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.85184645652771 seconds
+2019-09-03 13:28:23,918 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0378563404083252 seconds
+2019-09-03 13:28:23,918 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:28:23,919 - root - INFO - ############################### START ###############################
+2019-09-03 13:28:28,539 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.620744943618774 seconds
+2019-09-03 13:28:28,811 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.26882338523864746 seconds
+2019-09-03 13:28:30,296 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.4842548370361328 seconds
+2019-09-03 13:28:30,299 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.001997232437133789 seconds
+2019-09-03 13:28:30,542 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[2]/ul[1]/li[2]>, Spend 0.24262547492980957 seconds
+2019-09-03 13:28:30,546 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0029938220977783203 seconds
+2019-09-03 13:28:30,776 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.22870373725891113 seconds
+2019-09-03 13:28:30,812 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.034857988357543945 seconds
+2019-09-03 13:28:31,095 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.282336950302124 seconds
+2019-09-03 13:28:31,120 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.02428150177001953 seconds
+2019-09-03 13:28:31,123 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0020246505737304688 seconds
+2019-09-03 13:28:31,937 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.8132870197296143 seconds
+2019-09-03 13:28:42,429 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/me, Spend 0.4897651672363281 seconds
+2019-09-03 13:28:42,690 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="new_address_btn"]>, Spend 0.26082515716552734 seconds
+2019-09-03 13:28:53,493 - root - INFO - SUCCESS    Clear and type element: <id->address_text> content: 马泉营二区100号, Spend 0.03855586051940918 seconds
+2019-09-03 13:28:53,534 - root - INFO - SUCCESS    Clear and type element: <id->receipt_name> content: zhaoyan, Spend 0.04047751426696777 seconds
+2019-09-03 13:28:53,578 - root - INFO - SUCCESS    Clear and type element: <id->receipt_phone> content: 18611404533, Spend 0.043685197830200195 seconds
+2019-09-03 13:28:53,808 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="edit_address_pop"]/div[4]/div[2]>, Spend 0.22969269752502441 seconds
+2019-09-03 13:28:59,090 - root - INFO - SUCCESS    Move to element: <xpath->//*[@id="div-address-all"]/div[2]/div[1]>, Spend 0.2804441452026367 seconds
+2019-09-03 13:29:02,131 - root - INFO - FAIL    Unable to click element: <class->set-default-address>, Spend 0.03830456733703613 seconds
+2019-09-03 13:29:03,120 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.9894187450408936 seconds
+2019-09-03 13:29:03,121 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:29:03,122 - root - INFO - ############################### START ###############################
+2019-09-03 13:29:07,736 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.613358020782471 seconds
+2019-09-03 13:29:08,009 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.27195191383361816 seconds
+2019-09-03 13:29:09,477 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.4670264720916748 seconds
+2019-09-03 13:29:09,481 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0029916763305664062 seconds
+2019-09-03 13:29:09,729 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[2]/ul[1]/li[2]>, Spend 0.24534010887145996 seconds
+2019-09-03 13:29:09,732 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0020241737365722656 seconds
+2019-09-03 13:29:09,962 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.22845125198364258 seconds
+2019-09-03 13:29:09,997 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.03501319885253906 seconds
+2019-09-03 13:29:10,228 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.2293555736541748 seconds
+2019-09-03 13:29:10,252 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.02350020408630371 seconds
+2019-09-03 13:29:10,255 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0019931793212890625 seconds
+2019-09-03 13:29:11,175 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.9191312789916992 seconds
+2019-09-03 13:29:22,092 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.9145760536193848 seconds
+2019-09-03 13:29:22,092 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:29:22,093 - root - INFO - ############################### START ###############################
+2019-09-03 13:29:26,713 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.619822263717651 seconds
+2019-09-03 13:29:26,984 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.269650936126709 seconds
+2019-09-03 13:29:32,026 - root - INFO - FAIL    unable move to element: <class->login>, Spend 5.041973352432251 seconds
+2019-09-03 13:29:32,705 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.6763315200805664 seconds
+2019-09-03 13:29:32,706 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:29:32,857 - root - INFO - ############################### START ###############################
+2019-09-03 13:29:37,975 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.116810321807861 seconds
+2019-09-03 13:29:38,237 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2608816623687744 seconds
+2019-09-03 13:29:39,673 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.435290813446045 seconds
+2019-09-03 13:29:39,676 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002026081085205078 seconds
+2019-09-03 13:29:39,918 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[2]/ul[1]/li[2]>, Spend 0.24169445037841797 seconds
+2019-09-03 13:29:39,922 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0029692649841308594 seconds
+2019-09-03 13:29:40,152 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.2289583683013916 seconds
+2019-09-03 13:29:40,196 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.042882680892944336 seconds
+2019-09-03 13:29:40,433 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.23446321487426758 seconds
+2019-09-03 13:29:40,572 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.13963985443115234 seconds
+2019-09-03 13:29:40,634 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0019958019256591797 seconds
+2019-09-03 13:29:41,709 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 1.0743608474731445 seconds
+2019-09-03 13:29:51,716 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.006030082702636719 seconds
+2019-09-03 13:29:51,996 - root - INFO - SUCCESS    Move to element: <class->login>, Spend 0.27768397331237793 seconds
+2019-09-03 13:29:52,001 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003991365432739258 seconds
+2019-09-03 13:29:52,055 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div[1]/div/div/div/a[8]>, Spend 0.052887678146362305 seconds
+2019-09-03 13:29:53,090 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0341358184814453 seconds
+2019-09-03 13:29:53,091 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:29:58,409 - root - INFO - 发送邮件成功
+2019-09-03 13:35:08,772 - root - INFO - SUCCESS    Start a new browser: Firefox, Spend 0.0 seconds
+2019-09-03 13:35:08,773 - root - INFO - FAIL    Unable to load www.baidu.com, Spend 0.0 seconds
+2019-09-03 13:35:44,497 - root - INFO - SUCCESS    Start a new browser: Firefox, Spend 0.0 seconds
+2019-09-03 13:36:07,845 - root - INFO - SUCCESS    Start a new browser: Firefox, Spend 0.0 seconds
+2019-09-03 13:36:45,201 - root - INFO - ############################### START ###############################
+2019-09-03 13:36:50,331 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.129343032836914 seconds
+2019-09-03 13:36:50,602 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.27036571502685547 seconds
+2019-09-03 13:36:53,169 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 2.565443515777588 seconds
+2019-09-03 13:36:53,175 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002988100051879883 seconds
+2019-09-03 13:36:53,413 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[2]/ul[1]/li[2]>, Spend 0.23848724365234375 seconds
+2019-09-03 13:36:53,416 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0020284652709960938 seconds
+2019-09-03 13:36:53,646 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.22825002670288086 seconds
+2019-09-03 13:36:53,682 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.03485679626464844 seconds
+2019-09-03 13:36:53,913 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.23033452033996582 seconds
+2019-09-03 13:36:53,946 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.03079080581665039 seconds
+2019-09-03 13:36:53,950 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0029916763305664062 seconds
+2019-09-03 13:36:54,812 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.8597979545593262 seconds
+2019-09-03 13:37:05,119 - root - INFO - SUCCESS    Move to element: <class->login>, Spend 0.30547308921813965 seconds
+2019-09-03 13:37:08,909 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="index_body"]/div[1]/div[1]/div/div/div/a[2]>, Spend 0.788898229598999 seconds
+2019-09-03 13:37:11,942 - root - INFO - FAIL    Unable to click element: <xpath->/html/body/div[2]/div>, Spend 0.03194999694824219 seconds
+2019-09-03 13:37:12,950 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0073552131652832 seconds
+2019-09-03 13:37:12,951 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:37:12,953 - root - INFO - ############################### START ###############################
+2019-09-03 13:37:17,563 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.607661247253418 seconds
+2019-09-03 13:37:17,831 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2672231197357178 seconds
+2019-09-03 13:37:20,516 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/, Spend 2.6851229667663574 seconds
+2019-09-03 13:37:20,519 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.001996278762817383 seconds
+2019-09-03 13:37:21,236 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div[1]/ul/li[3]/div>, Spend 0.7148706912994385 seconds
+2019-09-03 13:37:21,924 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="index_body"]/div[1]/ul/li[3]/ul/li[1]/a>, Spend 0.6880974769592285 seconds
+2019-09-03 13:37:21,928 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003988504409790039 seconds
+2019-09-03 13:37:22,853 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.9245145320892334 seconds
+2019-09-03 13:37:22,854 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:37:22,855 - root - INFO - ############################### START ###############################
+2019-09-03 13:37:27,488 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.633145332336426 seconds
+2019-09-03 13:37:27,751 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.26070427894592285 seconds
+2019-09-03 13:37:29,625 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/, Spend 1.8730995655059814 seconds
+2019-09-03 13:37:29,628 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0029916763305664062 seconds
+2019-09-03 13:37:29,921 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div[1]/ul/li[3]/div>, Spend 0.292020320892334 seconds
+2019-09-03 13:37:32,668 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="index_body"]/div[1]/ul/li[3]/ul/li[1]/a>, Spend 2.746990442276001 seconds
+2019-09-03 13:37:32,674 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003985881805419922 seconds
+2019-09-03 13:37:32,952 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='screening_wrapper']/div[3]/div/div/div[3]/a/div/div>, Spend 0.2772691249847412 seconds
+2019-09-03 13:37:32,961 - root - INFO - SUCCESS    Switch to the new window,new window's url: about:blank, Spend 0.007977485656738281 seconds
+2019-09-03 13:37:34,767 - root - INFO - SUCCESS    Clicked element: <id->goto_combination>, Spend 1.8050274848937988 seconds
+2019-09-03 13:37:38,043 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="recommend_part"]/div/div/div[2]/div/div[1]/div[2]/div/div/div>, Spend 0.2746868133544922 seconds
+2019-09-03 13:37:41,066 - root - INFO - FAIL    Unable to click element: <xpath->//*[@id="suite-pop-footer-2416"]/dl[1]/dd/div[2]>, Spend 0.021381855010986328 seconds
+2019-09-03 13:37:42,113 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0459156036376953 seconds
+2019-09-03 13:37:42,113 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:37:42,114 - root - INFO - ############################### START ###############################
+2019-09-03 13:37:46,733 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.6188905239105225 seconds
+2019-09-03 13:37:47,007 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.27191948890686035 seconds
+2019-09-03 13:37:48,349 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.3417203426361084 seconds
+2019-09-03 13:37:48,353 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002019643783569336 seconds
+2019-09-03 13:37:48,605 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[2]/ul[1]/li[2]>, Spend 0.2510263919830322 seconds
+2019-09-03 13:37:48,609 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0029964447021484375 seconds
+2019-09-03 13:37:48,841 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23047137260437012 seconds
+2019-09-03 13:37:48,880 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.038339853286743164 seconds
+2019-09-03 13:37:49,390 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.5089428424835205 seconds
+2019-09-03 13:37:49,483 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.0919952392578125 seconds
+2019-09-03 13:37:49,487 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0029942989349365234 seconds
+2019-09-03 13:37:50,371 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.8827064037322998 seconds
+2019-09-03 13:38:01,446 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0723106861114502 seconds
+2019-09-03 13:38:01,447 - root - INFO - ###############################  End  ###############################
+2019-09-03 13:38:01,448 - root - INFO - ############################### START ###############################
+2019-09-03 13:38:06,066 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.616862535476685 seconds
+2019-09-03 13:38:06,332 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.26399660110473633 seconds
+2019-09-03 13:38:12,696 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 6.362830877304077 seconds
+2019-09-03 13:38:12,699 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0029921531677246094 seconds
+2019-09-03 13:38:12,945 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[2]/ul[1]/li[2]>, Spend 0.24402117729187012 seconds
+2019-09-03 13:38:12,955 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.006982088088989258 seconds
+2019-09-03 13:38:13,185 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.22905731201171875 seconds
+2019-09-03 13:38:13,228 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.04111528396606445 seconds
+2019-09-03 13:38:13,465 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.2364490032196045 seconds
+2019-09-03 13:38:13,527 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.05983901023864746 seconds
+2019-09-03 13:38:13,530 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0020012855529785156 seconds
+2019-09-03 13:38:15,708 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 2.1782920360565186 seconds
+2019-09-03 13:38:26,536 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/me, Spend 0.8256282806396484 seconds
+2019-09-03 13:38:26,804 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="new_address_btn"]>, Spend 0.26659703254699707 seconds
+2019-09-03 14:13:37,534 - root - INFO - SUCCESS    Start a new browser: Firefox, Spend 0.0 seconds
+2019-09-03 14:14:23,646 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.141046762466431 seconds
+2019-09-03 14:15:09,325 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.660542249679565 seconds
+2019-09-03 14:15:09,343 - root - INFO - FAIL    Unable to load www.baidu.com, Spend 0.01695394515991211 seconds
+2019-09-03 14:15:47,479 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.137692451477051 seconds
+2019-09-03 14:48:07,436 - root - INFO - ############################### START ###############################
+2019-09-03 14:48:12,601 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.163223743438721 seconds
+2019-09-03 14:48:12,874 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2700786590576172 seconds
+2019-09-03 14:48:16,338 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 3.4628608226776123 seconds
+2019-09-03 14:48:16,344 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.005019664764404297 seconds
+2019-09-03 14:48:16,585 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.2396106719970703 seconds
+2019-09-03 14:48:16,588 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0023081302642822266 seconds
+2019-09-03 14:48:16,825 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.2353651523590088 seconds
+2019-09-03 14:48:16,868 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.03999447822570801 seconds
+2019-09-03 14:48:17,193 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.32309484481811523 seconds
+2019-09-03 14:48:17,236 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.039894819259643555 seconds
+2019-09-03 14:48:17,244 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.007450103759765625 seconds
+2019-09-03 14:48:18,656 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 1.4105684757232666 seconds
+2019-09-03 14:48:29,666 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0066843032836914 seconds
+2019-09-03 14:48:29,666 - root - INFO - ###############################  End  ###############################
+2019-09-03 14:49:13,936 - root - INFO - ############################### START ###############################
+2019-09-03 14:49:19,071 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.13358211517334 seconds
+2019-09-03 14:49:19,349 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2749028205871582 seconds
+2019-09-03 14:49:24,382 - root - INFO - FAIL    unable move to element: <class->hover>, Spend 5.033572196960449 seconds
+2019-09-03 14:49:25,018 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.6335253715515137 seconds
+2019-09-03 14:49:25,019 - root - INFO - ###############################  End  ###############################
+2019-09-03 14:49:25,027 - root - INFO - ############################### START ###############################
+2019-09-03 14:49:30,156 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.128323554992676 seconds
+2019-09-03 14:49:30,418 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.260791540145874 seconds
+2019-09-03 14:49:31,824 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.4041674137115479 seconds
+2019-09-03 14:49:31,827 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.002989053726196289 seconds
+2019-09-03 14:49:32,071 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.24300289154052734 seconds
+2019-09-03 14:49:32,075 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0029730796813964844 seconds
+2019-09-03 14:49:32,310 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23432374000549316 seconds
+2019-09-03 14:49:32,366 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.05357480049133301 seconds
+2019-09-03 14:49:32,783 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.4168870449066162 seconds
+2019-09-03 14:49:32,857 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.07180976867675781 seconds
+2019-09-03 14:49:32,865 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.003984212875366211 seconds
+2019-09-03 14:49:33,117 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.2514820098876953 seconds
+2019-09-03 14:49:43,133 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.013899087905883789 seconds
+2019-09-03 14:49:43,163 - root - INFO - FAIL    unable move to element: <class->hover>, Spend 0.028913259506225586 seconds
+2019-09-03 14:49:44,257 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0922491550445557 seconds
+2019-09-03 14:49:44,257 - root - INFO - ###############################  End  ###############################
+2019-09-03 14:50:23,592 - root - INFO - ############################### START ###############################
+2019-09-03 14:50:28,683 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.091533422470093 seconds
+2019-09-03 14:50:28,957 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2725050449371338 seconds
+2019-09-03 14:50:33,985 - root - INFO - FAIL    unable move to element: <class->hover>, Spend 5.027674913406372 seconds
+2019-09-03 14:50:34,649 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.6639230251312256 seconds
+2019-09-03 14:50:34,650 - root - INFO - ###############################  End  ###############################
+2019-09-03 14:50:34,660 - root - INFO - ############################### START ###############################
+2019-09-03 14:50:39,753 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.0903589725494385 seconds
+2019-09-03 14:50:40,029 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.27377891540527344 seconds
+2019-09-03 14:50:41,468 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.43906831741333 seconds
+2019-09-03 14:50:41,472 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0039899349212646484 seconds
+2019-09-03 14:50:41,728 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.25331759452819824 seconds
+2019-09-03 14:50:41,733 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0029859542846679688 seconds
+2019-09-03 14:50:41,967 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23365378379821777 seconds
+2019-09-03 14:50:42,004 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.0359044075012207 seconds
+2019-09-03 14:50:42,552 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.5474119186401367 seconds
+2019-09-03 14:50:42,660 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.10571718215942383 seconds
+2019-09-03 14:50:42,668 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0069925785064697266 seconds
+2019-09-03 14:50:43,799 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 1.129565954208374 seconds
+2019-09-03 14:50:53,806 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004937648773193359 seconds
+2019-09-03 14:50:53,830 - root - INFO - FAIL    unable move to element: <class->hover>, Spend 0.0229644775390625 seconds
+2019-09-03 14:50:54,853 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.021904706954956 seconds
+2019-09-03 14:50:54,854 - root - INFO - ###############################  End  ###############################
+2019-09-03 14:51:11,765 - root - INFO - ############################### START ###############################
+2019-09-03 14:51:16,387 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.621463298797607 seconds
+2019-09-03 14:51:16,660 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.27200818061828613 seconds
+2019-09-03 14:51:21,693 - root - INFO - FAIL    unable move to element: <class->hover>, Spend 5.031916618347168 seconds
+2019-09-03 14:51:22,432 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.7365100383758545 seconds
+2019-09-03 14:51:22,434 - root - INFO - ###############################  End  ###############################
+2019-09-03 14:52:47,103 - root - INFO - ############################### START ###############################
+2019-09-03 14:52:52,243 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.1380555629730225 seconds
+2019-09-03 14:52:52,513 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.26297974586486816 seconds
+2019-09-03 14:52:54,075 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.5596251487731934 seconds
+2019-09-03 14:52:54,078 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0019927024841308594 seconds
+2019-09-03 14:52:54,324 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.2450699806213379 seconds
+2019-09-03 14:52:54,327 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0019948482513427734 seconds
+2019-09-03 14:52:54,563 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23542094230651855 seconds
+2019-09-03 14:52:54,600 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.0359036922454834 seconds
+2019-09-03 14:52:54,849 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.24709701538085938 seconds
+2019-09-03 14:52:54,874 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.024644851684570312 seconds
+2019-09-03 14:52:54,877 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.002029895782470703 seconds
+2019-09-03 14:52:55,817 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.9406094551086426 seconds
+2019-09-03 14:53:05,824 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004991054534912109 seconds
+2019-09-03 14:53:05,851 - root - INFO - FAIL    unable move to element: <class->hover>, Spend 0.025927066802978516 seconds
+2019-09-03 14:53:06,952 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0991475582122803 seconds
+2019-09-03 14:53:06,952 - root - INFO - ###############################  End  ###############################
+2019-09-03 14:53:24,406 - root - INFO - ############################### START ###############################
+2019-09-03 14:53:29,545 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.139089822769165 seconds
+2019-09-03 14:53:29,810 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.26279735565185547 seconds
+2019-09-03 14:53:31,181 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.3697988986968994 seconds
+2019-09-03 14:53:31,186 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003993511199951172 seconds
+2019-09-03 14:53:31,439 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.2523472309112549 seconds
+2019-09-03 14:53:31,443 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0019941329956054688 seconds
+2019-09-03 14:53:31,678 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23237967491149902 seconds
+2019-09-03 14:53:31,718 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.040891170501708984 seconds
+2019-09-03 14:53:31,982 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.2624948024749756 seconds
+2019-09-03 14:53:32,086 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.10272645950317383 seconds
+2019-09-03 14:53:32,090 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0029931068420410156 seconds
+2019-09-03 14:53:32,327 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.23543620109558105 seconds
+2019-09-03 14:53:42,340 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.01100468635559082 seconds
+2019-09-03 14:53:42,374 - root - INFO - FAIL    unable move to element: <class->hover>, Spend 0.03191089630126953 seconds
+2019-09-03 14:53:43,653 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.2781624794006348 seconds
+2019-09-03 14:53:43,654 - root - INFO - ###############################  End  ###############################
+2019-09-03 14:53:55,601 - root - INFO - ############################### START ###############################
+2019-09-03 14:54:00,227 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.623199701309204 seconds
+2019-09-03 14:54:00,489 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.26182985305786133 seconds
+2019-09-03 14:54:02,040 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.5492069721221924 seconds
+2019-09-03 14:54:02,044 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0029931068420410156 seconds
+2019-09-03 14:54:02,296 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.251309871673584 seconds
+2019-09-03 14:54:02,302 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.003987789154052734 seconds
+2019-09-03 14:54:02,579 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.2752711772918701 seconds
+2019-09-03 14:54:02,637 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.05684542655944824 seconds
+2019-09-03 14:54:03,135 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.49622249603271484 seconds
+2019-09-03 14:54:03,166 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.029921531677246094 seconds
+2019-09-03 14:54:03,169 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0019948482513427734 seconds
+2019-09-03 14:54:04,366 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 1.1958963871002197 seconds
+2019-09-03 14:54:14,380 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.01292109489440918 seconds
+2019-09-03 14:54:14,409 - root - INFO - FAIL    unable move to element: <class->hover>, Spend 0.02492356300354004 seconds
+2019-09-03 14:54:15,325 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.9141805171966553 seconds
+2019-09-03 14:54:15,325 - root - INFO - ###############################  End  ###############################
+2019-09-03 14:55:03,504 - root - INFO - ############################### START ###############################
+2019-09-03 14:55:08,622 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.117403268814087 seconds
+2019-09-03 14:55:08,881 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.25868940353393555 seconds
+2019-09-03 14:55:11,210 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 2.327516555786133 seconds
+2019-09-03 14:55:11,215 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003992557525634766 seconds
+2019-09-03 14:55:11,577 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.3599114418029785 seconds
+2019-09-03 14:55:11,589 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.009997367858886719 seconds
+2019-09-03 14:55:11,818 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.22747182846069336 seconds
+2019-09-03 14:55:11,858 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.0388951301574707 seconds
+2019-09-03 14:55:12,098 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.2393629550933838 seconds
+2019-09-03 14:55:12,128 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.02892136573791504 seconds
+2019-09-03 14:55:12,132 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0039899349212646484 seconds
+2019-09-03 14:55:18,029 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 5.895583391189575 seconds
+2019-09-03 14:55:28,041 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.009977102279663086 seconds
+2019-09-03 14:55:28,322 - root - INFO - SUCCESS    Move to element: <class->login>, Spend 0.2786533832550049 seconds
+2019-09-03 14:55:28,326 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003954887390136719 seconds
+2019-09-03 14:55:28,367 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div[1]/div/div/div/a[8]>, Spend 0.04088926315307617 seconds
+2019-09-03 14:55:29,355 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.9869551658630371 seconds
+2019-09-03 14:55:29,356 - root - INFO - ###############################  End  ###############################
+2019-09-03 14:56:49,153 - root - INFO - ############################### START ###############################
+2019-09-03 14:56:54,283 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.128332614898682 seconds
+2019-09-03 14:56:54,554 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.27088236808776855 seconds
+2019-09-03 14:56:57,200 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/, Spend 2.6432456970214844 seconds
+2019-09-03 14:56:57,205 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004987239837646484 seconds
+2019-09-03 14:56:57,984 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div[1]/ul/li[3]/div>, Spend 0.7766416072845459 seconds
+2019-09-03 14:57:03,930 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="index_body"]/div[1]/ul/li[3]/ul/li[1]/a>, Spend 5.946018934249878 seconds
+2019-09-03 14:57:03,935 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0039861202239990234 seconds
+2019-09-03 14:57:04,816 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.8781673908233643 seconds
+2019-09-03 14:57:04,816 - root - INFO - ###############################  End  ###############################
+2019-09-03 14:57:04,824 - root - INFO - ############################### START ###############################
+2019-09-03 14:57:09,945 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.118953227996826 seconds
+2019-09-03 14:57:10,211 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.26250147819519043 seconds
+2019-09-03 14:57:12,509 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/, Spend 2.2967581748962402 seconds
+2019-09-03 14:57:12,530 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.01894998550415039 seconds
+2019-09-03 14:57:12,954 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div[1]/ul/li[3]/div>, Spend 0.42087221145629883 seconds
+2019-09-03 14:57:17,892 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="index_body"]/div[1]/ul/li[3]/ul/li[1]/a>, Spend 4.935461044311523 seconds
+2019-09-03 14:57:17,902 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.008946657180786133 seconds
+2019-09-03 14:57:18,168 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='screening_wrapper']/div[3]/div/div/div[3]/a/div/div>, Spend 0.26524853706359863 seconds
+2019-09-03 14:57:18,177 - root - INFO - SUCCESS    Switch to the new window,new window's url: about:blank, Spend 0.007976770401000977 seconds
+2019-09-03 14:57:19,402 - root - INFO - SUCCESS    Clicked element: <id->goto_combination>, Spend 1.2240872383117676 seconds
+2019-09-03 14:57:22,813 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="recommend_part"]/div/div/div[2]/div/div[1]/div[2]/div/div/div>, Spend 0.40915822982788086 seconds
+2019-09-03 14:57:25,834 - root - INFO - FAIL    Unable to click element: <xpath->//*[@id="suite-pop-footer-2416"]/dl[1]/dd/div[2]>, Spend 0.019977331161499023 seconds
+2019-09-03 14:57:26,903 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0665419101715088 seconds
+2019-09-03 14:57:26,903 - root - INFO - ###############################  End  ###############################
+2019-09-03 15:01:08,254 - root - INFO - ############################### START ###############################
+2019-09-03 15:01:13,362 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.106652498245239 seconds
+2019-09-03 15:01:13,637 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2735292911529541 seconds
+2019-09-03 15:01:16,554 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/, Spend 2.914837598800659 seconds
+2019-09-03 15:01:16,559 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003988504409790039 seconds
+2019-09-03 15:01:17,017 - root - INFO - SUCCESS    Move to element: <xpath->/html/body/div[1]/ul/li[3]/div>, Spend 0.45723748207092285 seconds
+2019-09-03 15:01:19,725 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="index_body"]/div[1]/ul/li[3]/ul/li[1]/a>, Spend 2.7080435752868652 seconds
+2019-09-03 15:01:19,729 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0029916763305664062 seconds
+2019-09-03 15:01:19,990 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id='screening_wrapper']/div[3]/div/div/div[3]/a/div/div>, Spend 0.259929895401001 seconds
+2019-09-03 15:01:19,998 - root - INFO - SUCCESS    Switch to the new window,new window's url: about:blank, Spend 0.007979393005371094 seconds
+2019-09-03 15:01:21,113 - root - INFO - SUCCESS    Clicked element: <id->goto_combination>, Spend 1.1135854721069336 seconds
+2019-09-03 15:01:24,392 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="recommend_part"]/div/div/div[2]/div/div[1]/div[2]/div/div/div>, Spend 0.27875781059265137 seconds
+2019-09-03 15:01:27,418 - root - INFO - FAIL    Unable to click element: <xpath->//*[@id="suite-pop-footer-2416"]/dl[1]/dd/div[2]>, Spend 0.024920225143432617 seconds
+2019-09-03 15:01:28,771 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.3515965938568115 seconds
+2019-09-03 15:01:28,772 - root - INFO - ###############################  End  ###############################
+2019-09-03 15:02:54,236 - root - INFO - ############################### START ###############################
+2019-09-03 15:02:59,338 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.100914478302002 seconds
+2019-09-03 15:02:59,612 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2703838348388672 seconds
+2019-09-03 15:03:01,008 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.3966453075408936 seconds
+2019-09-03 15:03:01,014 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0049860477447509766 seconds
+2019-09-03 15:03:01,256 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.24093365669250488 seconds
+2019-09-03 15:03:01,259 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.001993417739868164 seconds
+2019-09-03 15:03:01,497 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23583102226257324 seconds
+2019-09-03 15:03:01,535 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.036902427673339844 seconds
+2019-09-03 15:03:01,778 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.24212384223937988 seconds
+2019-09-03 15:03:01,802 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.022937536239624023 seconds
+2019-09-03 15:03:01,805 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0019948482513427734 seconds
+2019-09-03 15:03:03,031 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 1.2245898246765137 seconds
+2019-09-03 15:03:13,768 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/me, Spend 0.734307050704956 seconds
+2019-09-03 15:03:14,022 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="new_address_btn"]>, Spend 0.25304341316223145 seconds
+2019-09-03 15:03:24,800 - root - INFO - SUCCESS    Clear and type element: <id->address_text> content: 马泉营二区100号, Spend 0.04089045524597168 seconds
+2019-09-03 15:03:24,838 - root - INFO - SUCCESS    Clear and type element: <id->receipt_name> content: zhaoyan, Spend 0.03690314292907715 seconds
+2019-09-03 15:03:24,882 - root - INFO - SUCCESS    Clear and type element: <id->receipt_phone> content: 18611404533, Spend 0.04366278648376465 seconds
+2019-09-03 15:03:25,118 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="edit_address_pop"]/div[4]/div[2]>, Spend 0.2335951328277588 seconds
+2019-09-03 15:03:30,401 - root - INFO - SUCCESS    Move to element: <xpath->//*[@id="div-address-all"]/div[2]/div[1]>, Spend 0.2819788455963135 seconds
+2019-09-03 15:03:33,415 - root - INFO - FAIL    Unable to click element: <class->set-default-address>, Spend 0.013363361358642578 seconds
+2019-09-03 15:03:34,393 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.976370096206665 seconds
+2019-09-03 15:03:34,393 - root - INFO - ###############################  End  ###############################
+2019-09-03 15:06:47,315 - root - INFO - ############################### START ###############################
+2019-09-03 15:06:52,443 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.1275551319122314 seconds
+2019-09-03 15:06:52,717 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.27231812477111816 seconds
+2019-09-03 15:06:54,146 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.4288716316223145 seconds
+2019-09-03 15:06:54,153 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0060231685638427734 seconds
+2019-09-03 15:06:54,396 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.24138212203979492 seconds
+2019-09-03 15:06:54,399 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.002991199493408203 seconds
+2019-09-03 15:06:54,636 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23493552207946777 seconds
+2019-09-03 15:06:54,687 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.049868106842041016 seconds
+2019-09-03 15:06:54,929 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.2419135570526123 seconds
+2019-09-03 15:06:54,954 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.022942304611206055 seconds
+2019-09-03 15:06:54,959 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0029904842376708984 seconds
+2019-09-03 15:06:55,868 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.9077460765838623 seconds
+2019-09-03 15:07:07,000 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/me, Spend 1.1308178901672363 seconds
+2019-09-03 15:07:07,263 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="new_address_btn"]>, Spend 0.2619049549102783 seconds
+2019-09-03 15:07:18,078 - root - INFO - SUCCESS    Clear and type element: <id->address_text> content: 马泉营二区1001号, Spend 0.07175636291503906 seconds
+2019-09-03 15:07:18,118 - root - INFO - SUCCESS    Clear and type element: <id->receipt_name> content: zhaoyan, Spend 0.03899860382080078 seconds
+2019-09-03 15:07:18,159 - root - INFO - SUCCESS    Clear and type element: <id->receipt_phone> content: 18611404533, Spend 0.03989148139953613 seconds
+2019-09-03 15:07:18,389 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="edit_address_pop"]/div[4]/div[2]>, Spend 0.22872495651245117 seconds
+2019-09-03 15:07:23,663 - root - INFO - SUCCESS    Move to element: <xpath->//*[@id="div-address-all"]/div[2]/div[1]>, Spend 0.27344441413879395 seconds
+2019-09-03 15:07:26,678 - root - INFO - FAIL    Unable to click element: <class->set-default-address>, Spend 0.012966156005859375 seconds
+2019-09-03 15:07:27,562 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.8839442729949951 seconds
+2019-09-03 15:07:27,563 - root - INFO - ###############################  End  ###############################
+2019-09-03 15:07:59,240 - root - INFO - ############################### START ###############################
+2019-09-03 15:08:03,869 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.627653121948242 seconds
+2019-09-03 15:08:04,145 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.27481842041015625 seconds
+2019-09-03 15:08:05,651 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.5054466724395752 seconds
+2019-09-03 15:08:05,658 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.004987001419067383 seconds
+2019-09-03 15:08:05,909 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.25033116340637207 seconds
+2019-09-03 15:08:05,916 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.005982398986816406 seconds
+2019-09-03 15:08:06,149 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23174738883972168 seconds
+2019-09-03 15:08:06,188 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.038285255432128906 seconds
+2019-09-03 15:08:06,459 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.26917552947998047 seconds
+2019-09-03 15:08:06,484 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.02444911003112793 seconds
+2019-09-03 15:08:06,488 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.001994609832763672 seconds
+2019-09-03 15:08:07,438 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.9501569271087646 seconds
+2019-09-03 15:08:17,887 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/me, Spend 0.44748997688293457 seconds
+2019-09-03 15:08:18,247 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="new_address_btn"]>, Spend 0.35944652557373047 seconds
+2019-09-03 15:08:29,032 - root - INFO - SUCCESS    Clear and type element: <id->address_text> content: 马泉营二区1001号, Spend 0.04534435272216797 seconds
+2019-09-03 15:08:29,072 - root - INFO - SUCCESS    Clear and type element: <id->receipt_name> content: zhaoyan, Spend 0.03989291191101074 seconds
+2019-09-03 15:08:29,118 - root - INFO - SUCCESS    Clear and type element: <id->receipt_phone> content: 18611404533, Spend 0.04444003105163574 seconds
+2019-09-03 15:08:29,348 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="edit_address_pop"]/div[4]/div[2]>, Spend 0.229095458984375 seconds
+2019-09-03 15:08:34,635 - root - INFO - SUCCESS    Move to element: <xpath->//*[@id="div-address-all"]/div[2]/div[1]>, Spend 0.2860071659088135 seconds
+2019-09-03 15:08:37,875 - root - INFO - SUCCESS    Clicked element: <class->set-default-address>, Spend 0.23758482933044434 seconds
+2019-09-03 15:08:41,161 - root - INFO - SUCCESS    Move to element: <xpath->//*[@id="div-address-all"]/div[2]/div[1]>, Spend 0.2861196994781494 seconds
+2019-09-03 15:08:44,185 - root - INFO - FAIL    Unable to click element: <class->delete-address>, Spend 0.02074885368347168 seconds
+2019-09-03 15:08:45,009 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.822528600692749 seconds
+2019-09-03 15:08:45,010 - root - INFO - ###############################  End  ###############################
+2019-09-03 15:10:44,850 - root - INFO - ############################### START ###############################
+2019-09-03 15:10:49,444 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.5923378467559814 seconds
+2019-09-03 15:10:49,713 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.267061710357666 seconds
+2019-09-03 15:10:51,813 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 2.098163604736328 seconds
+2019-09-03 15:10:51,816 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0029592514038085938 seconds
+2019-09-03 15:10:52,107 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.29024457931518555 seconds
+2019-09-03 15:10:52,111 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.002992391586303711 seconds
+2019-09-03 15:10:52,351 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23836159706115723 seconds
+2019-09-03 15:10:52,392 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.039894819259643555 seconds
+2019-09-03 15:10:52,626 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.23337483406066895 seconds
+2019-09-03 15:10:52,649 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.02293848991394043 seconds
+2019-09-03 15:10:52,654 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.003988742828369141 seconds
+2019-09-03 15:10:54,777 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 2.1206512451171875 seconds
+2019-09-03 15:11:05,276 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/me, Spend 0.49881958961486816 seconds
+2019-09-03 15:11:05,572 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="new_address_btn"]>, Spend 0.2956993579864502 seconds
+2019-09-03 15:11:16,379 - root - INFO - SUCCESS    Clear and type element: <id->address_text> content: 马泉营二区1001号, Spend 0.0448455810546875 seconds
+2019-09-03 15:11:16,425 - root - INFO - SUCCESS    Clear and type element: <id->receipt_name> content: zhaoyan, Spend 0.04487895965576172 seconds
+2019-09-03 15:11:16,473 - root - INFO - SUCCESS    Clear and type element: <id->receipt_phone> content: 18611404533, Spend 0.046875 seconds
+2019-09-03 15:11:16,708 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="edit_address_pop"]/div[4]/div[2]>, Spend 0.23349499702453613 seconds
+2019-09-03 15:11:29,756 - root - INFO - FAIL    unable move to element: <xpath->//*[@id="div-address-all"]/div[2]/div[1]>, Spend 8.045870304107666 seconds
+2019-09-03 15:11:30,745 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.9886393547058105 seconds
+2019-09-03 15:11:30,745 - root - INFO - ###############################  End  ###############################
+2019-09-03 15:14:10,856 - root - INFO - ############################### START ###############################
+2019-09-03 15:14:15,483 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.625813245773315 seconds
+2019-09-03 15:14:15,753 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2671840190887451 seconds
+2019-09-03 15:14:18,142 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 2.389514207839966 seconds
+2019-09-03 15:14:18,146 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0029935836791992188 seconds
+2019-09-03 15:14:18,399 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.2517049312591553 seconds
+2019-09-03 15:14:18,403 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0019953250885009766 seconds
+2019-09-03 15:14:18,637 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.2326812744140625 seconds
+2019-09-03 15:14:18,676 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.03789949417114258 seconds
+2019-09-03 15:14:18,961 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.28423142433166504 seconds
+2019-09-03 15:14:18,988 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.025931835174560547 seconds
+2019-09-03 15:14:18,991 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.001995086669921875 seconds
+2019-09-03 15:14:19,229 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 0.23556232452392578 seconds
+2019-09-03 15:14:29,801 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/me, Spend 0.5705244541168213 seconds
+2019-09-03 15:14:30,096 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="new_address_btn"]>, Spend 0.29453396797180176 seconds
+2019-09-03 15:14:40,888 - root - INFO - SUCCESS    Clear and type element: <id->address_text> content: 马泉营二区1001号, Spend 0.04186248779296875 seconds
+2019-09-03 15:14:40,930 - root - INFO - SUCCESS    Clear and type element: <id->receipt_name> content: zhaoyan, Spend 0.04188895225524902 seconds
+2019-09-03 15:14:40,974 - root - INFO - SUCCESS    Clear and type element: <id->receipt_phone> content: 18611404533, Spend 0.04288363456726074 seconds
+2019-09-03 15:14:41,210 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="edit_address_pop"]/div[4]/div[2]>, Spend 0.23444461822509766 seconds
+2019-09-03 15:14:54,237 - root - INFO - FAIL    unable move to element: <xpath->//*[@id="div-address-all"]/div[2]/div[1]>, Spend 8.025090217590332 seconds
+2019-09-03 15:14:55,132 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.8939180374145508 seconds
+2019-09-03 15:14:55,132 - root - INFO - ###############################  End  ###############################
+2019-09-03 15:16:19,043 - root - INFO - ############################### START ###############################
+2019-09-03 15:16:23,650 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.605619192123413 seconds
+2019-09-03 15:16:23,918 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.264080286026001 seconds
+2019-09-03 15:16:26,086 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 2.1673824787139893 seconds
+2019-09-03 15:16:26,090 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.0019953250885009766 seconds
+2019-09-03 15:16:26,331 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.23966646194458008 seconds
+2019-09-03 15:16:26,334 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0019958019256591797 seconds
+2019-09-03 15:16:26,573 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23613429069519043 seconds
+2019-09-03 15:16:26,618 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.041892051696777344 seconds
+2019-09-03 15:16:26,850 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.23091769218444824 seconds
+2019-09-03 15:16:26,876 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.023936748504638672 seconds
+2019-09-03 15:16:26,880 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0019943714141845703 seconds
+2019-09-03 15:16:29,520 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 2.6399850845336914 seconds
+2019-09-03 15:16:40,049 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/me, Spend 0.5277190208435059 seconds
+2019-09-03 15:16:40,316 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="new_address_btn"]>, Spend 0.26505136489868164 seconds
+2019-09-03 15:16:51,113 - root - INFO - SUCCESS    Clear and type element: <id->address_text> content: 马泉营二区1001号, Spend 0.040685176849365234 seconds
+2019-09-03 15:16:51,159 - root - INFO - SUCCESS    Clear and type element: <id->receipt_name> content: zhaoyan, Spend 0.04587697982788086 seconds
+2019-09-03 15:16:51,206 - root - INFO - SUCCESS    Clear and type element: <id->receipt_phone> content: 18611404533, Spend 0.045876502990722656 seconds
+2019-09-03 15:16:51,440 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="edit_address_pop"]/div[4]/div[2]>, Spend 0.23320293426513672 seconds
+2019-09-03 15:16:56,708 - root - INFO - SUCCESS    Move to element: <xpath->//*[@id="div-address-all"]/div[2]/div[1]>, Spend 0.26711344718933105 seconds
+2019-09-03 15:16:59,933 - root - INFO - SUCCESS    Clicked element: <class->set-default-address>, Spend 0.2232818603515625 seconds
+2019-09-03 15:17:10,968 - root - INFO - FAIL    unable move to element: <class->f1>, Spend 8.033790588378906 seconds
+2019-09-03 15:17:11,877 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.9059607982635498 seconds
+2019-09-03 15:17:11,878 - root - INFO - ###############################  End  ###############################
+2019-09-03 15:17:25,208 - root - INFO - ############################### START ###############################
+2019-09-03 15:17:29,840 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 4.631499528884888 seconds
+2019-09-03 15:17:30,111 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2703542709350586 seconds
+2019-09-03 15:17:31,452 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 1.3392879962921143 seconds
+2019-09-03 15:17:31,459 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.00598597526550293 seconds
+2019-09-03 15:17:31,710 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.24877667427062988 seconds
+2019-09-03 15:17:31,717 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.004202365875244141 seconds
+2019-09-03 15:17:31,949 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23175334930419922 seconds
+2019-09-03 15:17:31,989 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.03989362716674805 seconds
+2019-09-03 15:17:32,221 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.23151898384094238 seconds
+2019-09-03 15:17:32,255 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.032913923263549805 seconds
+2019-09-03 15:17:32,258 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.001991748809814453 seconds
+2019-09-03 15:17:43,371 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 11.111207485198975 seconds
+2019-09-03 15:18:03,610 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/me, Spend 10.235857009887695 seconds
+2019-09-03 15:18:03,870 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="new_address_btn"]>, Spend 0.25902485847473145 seconds
+2019-09-03 15:18:14,641 - root - INFO - SUCCESS    Clear and type element: <id->address_text> content: 马泉营二区1001号, Spend 0.03861427307128906 seconds
+2019-09-03 15:18:14,681 - root - INFO - SUCCESS    Clear and type element: <id->receipt_name> content: zhaoyan, Spend 0.03887772560119629 seconds
+2019-09-03 15:18:14,726 - root - INFO - SUCCESS    Clear and type element: <id->receipt_phone> content: 18611404533, Spend 0.04390740394592285 seconds
+2019-09-03 15:18:14,966 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="edit_address_pop"]/div[4]/div[2]>, Spend 0.23841524124145508 seconds
+2019-09-03 15:18:27,992 - root - INFO - FAIL    unable move to element: <xpath->//*[@id="div-address-all"]/div[2]/div[1]>, Spend 8.024583339691162 seconds
+2019-09-03 15:18:28,697 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.7021389007568359 seconds
+2019-09-03 15:18:28,698 - root - INFO - ###############################  End  ###############################
+2019-09-03 15:21:29,986 - root - INFO - ############################### START ###############################
+2019-09-03 15:21:35,228 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.239941596984863 seconds
+2019-09-03 15:21:35,503 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2728393077850342 seconds
+2019-09-03 15:21:38,101 - root - INFO - SUCCESS    Navigated to https://www.zaozuo.com/login, Spend 2.5951709747314453 seconds
+2019-09-03 15:21:38,105 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.003994941711425781 seconds
+2019-09-03 15:21:38,375 - root - INFO - SUCCESS    Clicked element: <xpath->//li[contains(text(),"密码登录")]>, Spend 0.2692718505859375 seconds
+2019-09-03 15:21:38,378 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.0020270347595214844 seconds
+2019-09-03 15:21:38,610 - root - INFO - SUCCESS    Clicked element: <id->phone_num_passwd>, Spend 0.23038434982299805 seconds
+2019-09-03 15:21:38,650 - root - INFO - SUCCESS    Clear and type element: <id->phone_num_passwd> content: 18611404533, Spend 0.03889608383178711 seconds
+2019-09-03 15:21:38,888 - root - INFO - SUCCESS    Clicked element: <id->password>, Spend 0.2353684902191162 seconds
+2019-09-03 15:21:38,923 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 8655899, Spend 0.032907962799072266 seconds
+2019-09-03 15:21:38,928 - root - INFO - SUCCESS    Set wait all element display in 3 seconds, Spend 0.003989458084106445 seconds
+2019-09-03 15:21:40,008 - root - INFO - SUCCESS    Clicked element: <id->login_passwd>, Spend 1.0781171321868896 seconds
+2019-09-03 15:21:50,014 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.00498509407043457 seconds
+2019-09-03 15:21:50,291 - root - INFO - SUCCESS    Move to element: <class->login>, Spend 0.2742941379547119 seconds
+2019-09-03 15:21:50,297 - root - INFO - SUCCESS    Set wait all element display in 10 seconds, Spend 0.005026817321777344 seconds
+2019-09-03 15:21:50,354 - root - INFO - SUCCESS    Clicked element: <xpath->/html/body/div[1]/div[1]/div/div/div/a[8]>, Spend 0.054846763610839844 seconds
+2019-09-03 15:21:51,540 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.1858444213867188 seconds
+2019-09-03 15:21:51,541 - root - INFO - ###############################  End  ###############################

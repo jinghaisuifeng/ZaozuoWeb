@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a54329e-4875-47e6-bc82-5304d7ab38df" name="Default" comment="" />
+    <ignored path="UItestframework.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_login_TestZaoZuoLogin_test_login_username.coverage" NAME="Nosetests for test_zaozuo_login.TestZaoZuoLogin.test_login_username Coverage Results" MODIFIED="1541136320200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_login_TestZaoZuoLogin_test_login_excel.coverage" NAME="Nosetests for test_zaozuo_login.TestZaoZuoLogin.test_login_excel Coverage Results" MODIFIED="1541039987064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$run.coverage" NAME="run Coverage Results" MODIFIED="1542189052689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UItestframework$sendmail.coverage" NAME="sendmail Coverage Results" MODIFIED="1478241753457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public/common" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$database.coverage" NAME="database Coverage Results" MODIFIED="1542872835302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public/common" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_Evaluation_TestZaoZuoEvaluation_test_Evaluation_case.coverage" NAME="Nosetests for test_zaozuo_Evaluation.TestZaoZuoEvaluation.test_Evaluation_case Coverage Results" MODIFIED="1542350878567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$request.coverage" NAME="request Coverage Results" MODIFIED="1542006109627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/web-ui/abc/test_case" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_in_test_zaozuo_Evaluation_py.coverage" NAME="Nosetests in test_zaozuo_Evaluation.py Coverage Results" MODIFIED="1542351399586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$pyselenium.coverage" NAME="pyselenium Coverage Results" MODIFIED="1540954613361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public/common" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_logout_TestZaoZuoLogout_test_logout_case.coverage" NAME="Nosetests for test_zaozuo_logout.TestZaoZuoLogout.test_logout_case Coverage Results" MODIFIED="1541994517946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_login_TestZaoZuoLogin_test_login_iput.coverage" NAME="Nosetests for test_zaozuo_login.TestZaoZuoLogin.test_login_iput Coverage Results" MODIFIED="1542336707080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_login_TestZaoZuoLogin_test_login_case.coverage" NAME="Nosetests for test_zaozuo_login.TestZaoZuoLogin.test_login_case Coverage Results" MODIFIED="1541143300184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_change_address_ZaoZuoMyProfilePage_test_zaozuo_add_adress.coverage" NAME="Nosetests for test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress Coverage Results" MODIFIED="1542273413768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$test_Clogin_screenshot.coverage" NAME="test_Clogin_screenshot Coverage Results" MODIFIED="1542274275144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/web-ui/abc/test_case" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_login_TestZaoZuoLogin.coverage" NAME="Nosetests for test_zaozuo_login.TestZaoZuoLogin Coverage Results" MODIFIED="1542595198595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework$log.coverage" NAME="log Coverage Results" MODIFIED="1478241288696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public/common" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$zaozuologinPage.coverage" NAME="zaozuologinPage Coverage Results" MODIFIED="1540979180174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public/pages" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_login_TestZaoZuoLogin_test_login_case1.coverage" NAME="Nosetests for test_zaozuo_login.TestZaoZuoLogin.test_login_case1 Coverage Results" MODIFIED="1541043499539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$test_Alogin.coverage" NAME="test_Alogin Coverage Results" MODIFIED="1542356159981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/web-ui/abc/test_case" />
+    <SUITE FILE_PATH="coverage/UItestframework$globalparam.coverage" NAME="globalparam Coverage Results" MODIFIED="1478239735424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$test_update_favorite_statues.coverage" NAME="test_update_favorite_statues Coverage Results" MODIFIED="1542004525160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/interfaceTest/testCase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$sendmail.coverage" NAME="sendmail Coverage Results" MODIFIED="1540954273124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public/common" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_in_test_zaozuo_change_address_py.coverage" NAME="Nosetests in test_zaozuo_change_address.py Coverage Results" MODIFIED="1542266403751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_login_TestZaoZuoLogin_test_login_case2.coverage" NAME="Nosetests for test_zaozuo_login.TestZaoZuoLogin.test_login_case2 Coverage Results" MODIFIED="1542280073298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_buygoods_TestZaoZuoBuyGoods_test_buy_suite.coverage" NAME="Nosetests for test_zaozuo_buygoods.TestZaoZuoBuyGoods.test_buy_suite Coverage Results" MODIFIED="1542250802379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$HTMLTestRunner.coverage" NAME="HTMLTestRunner Coverage Results" MODIFIED="1540953473831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_login_test_login_iput.coverage" NAME="Nosetests for test_zaozuo_login.test_login_iput Coverage Results" MODIFIED="1542281244273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework$datainfo.coverage" NAME="datainfo Coverage Results" MODIFIED="1478240502463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public/common" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_in_test_zaozuo_buygoods_py.coverage" NAME="Nosetests in test_zaozuo_buygoods.py Coverage Results" MODIFIED="1542250724155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_buygoods_TestZaoZuoBuyGoods_test_buy_goods.coverage" NAME="Nosetests for test_zaozuo_buygoods.TestZaoZuoBuyGoods.test_buy_goods Coverage Results" MODIFIED="1542188415569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$datainfo.coverage" NAME="datainfo Coverage Results" MODIFIED="1542276023410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public/common" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_in_test_zaozuo_login_py.coverage" NAME="Nosetests in test_zaozuo_login.py Coverage Results" MODIFIED="1542335456125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_in_test_zaozuo_logout_py.coverage" NAME="Nosetests in test_zaozuo_logout.py Coverage Results" MODIFIED="1542338360602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_in_test_baidu_py.coverage" NAME="Nosetests in test_baidu.py Coverage Results" MODIFIED="1540956854377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$Nosetests_for_test_zaozuo_logout_TestZaoZuoLogout.coverage" NAME="Nosetests for test_zaozuo_logout.TestZaoZuoLogout Coverage Results" MODIFIED="1542076759767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$zaozuoindexPage.coverage" NAME="zaozuoindexPage Coverage Results" MODIFIED="1542177539275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public/pages" />
+    <SUITE FILE_PATH="coverage/UItestframework_master$globalparam.coverage" NAME="globalparam Coverage Results" MODIFIED="1540954436347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/UItestframework$run.coverage" NAME="run Coverage Results" MODIFIED="1478575034065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/public/pages/zaozuoindexPage.py" />
+    </disable_hints>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="zaozuo_canal@rdscd16cciucbiyeqb2dw.mysql.rds.aliyuncs.com" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="zaozuo_canal@rdscd16cciucbiyeqb2dw.mysql.rds.aliyuncs.com" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="zaozuo_canal@rdscd16cciucbiyeqb2dw.mysql.rds.aliyuncs.com" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="zaozuo_tag: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="cde146f8-9dd9-44fd-80c2-8905aae02948" />
+    </checked>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="UItestframework" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/common/sendmail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/common/log.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/globalparam.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/report/log/2019-09-02.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="-3133" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/report/log/2019-09-03.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="-13874" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcase/geckodriver.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="-9798" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/pages/zaozuoMyProfilePage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1150">
+              <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+              <folding>
+                <element signature="e#68#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/test_zaozuo_Evaluation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+              <folding>
+                <element signature="e#69#101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/test_zaozuo_change_address.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/pages/zaozuoMyorder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reportPath</find>
+      <find>Subject</find>
+      <find>data</find>
+      <find>get_element</find>
+      <find>selling</find>
+      <find>飞鸟沙发</find>
+      <find>造作大先生沙发</find>
+      <find>move_to_element</find>
+      <find>cosmo</find>
+      <find>被芯</find>
+      <find>bedding</find>
+      <find>收纳</find>
+      <find>书柜</find>
+      <find>电视柜</find>
+      <find>沙发</find>
+      <find>柜架</find>
+      <find>椅凳</find>
+      <find>cos</find>
+      <find>床</find>
+      <find>handles</find>
+      <find>send_keys</find>
+      <find>send_key</find>
+      <find>selec</find>
+      <find>get</find>
+      <find>send</find>
+      <find>move</find>
+      <find>//*[@id=&quot;div-address-all&quot;]/div[2]/div[1]</find>
+      <find>type</find>
+      <find>/html/body/section/div[1]/div/div[2]/div</find>
+      <find>double</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/public/pages/zaozuoindexPage.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="$PROJECT_DIR$/testcase/test.py" />
+        <option value="$PROJECT_DIR$/public/common/globalparam.py" />
+        <option value="$PROJECT_DIR$/public/common/log.py" />
+        <option value="$PROJECT_DIR$/public/common/publicfunction.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/testcase/test_baidu.py" />
+        <option value="$PROJECT_DIR$/public/pages/baiduIndexPage.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/cde146f8-9dd9-44fd-80c2-8905aae02948/console_1.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/cde146f8-9dd9-44fd-80c2-8905aae02948/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/cde146f8-9dd9-44fd-80c2-8905aae02948/console_3.sql" />
+        <option value="F:/web-ui/abc/test_case/request.py" />
+        <option value="$PROJECT_DIR$/public/pages/zaozuogoodsselectionPage.pyi" />
+        <option value="$PROJECT_DIR$/public/pages/zaozuoBuyGoodsPage.py" />
+        <option value="$PROJECT_DIR$/testcase/test_zaozuo_login.py" />
+        <option value="$PROJECT_DIR$/public/pages/zaozuo_shaidanPage.py" />
+        <option value="$PROJECT_DIR$/public/pages/zaozuoindexPage.py" />
+        <option value="$PROJECT_DIR$/testcase/test_zaozuo_Evaluation.py" />
+        <option value="$PROJECT_DIR$/public/pages/zaozuoMyorder.py" />
+        <option value="F:/web-ui/abc/test_case/test_Alogin.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/cde146f8-9dd9-44fd-80c2-8905aae02948/console_4.sql" />
+        <option value="$PROJECT_DIR$/public/common/database.py" />
+        <option value="$PROJECT_DIR$/public/common/readconfig.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/public/common/sendmail.py" />
+        <option value="$PROJECT_DIR$/public/common/basepage.py" />
+        <option value="$PROJECT_DIR$/config/globalparam.py" />
+        <option value="$PROJECT_DIR$/public/common/datainfo.py" />
+        <option value="$PROJECT_DIR$/testcase/test_zaozuo_buygoods.py" />
+        <option value="$PROJECT_DIR$/testcase/test_zaozuo_change_address.py" />
+        <option value="$PROJECT_DIR$/public/common/pyselenium.py" />
+        <option value="$PROJECT_DIR$/public/common/mytest.py" />
+        <option value="$PROJECT_DIR$/public/method/login.py" />
+        <option value="$PROJECT_DIR$/testcase/test_zaozuo_logout.py" />
+        <option value="$PROJECT_DIR$/public/pages/zaozuologinPage.py" />
+        <option value="$PROJECT_DIR$/public/pages/zaozuoMyProfilePage.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1996" />
+    <option name="y" value="70" />
+    <option name="width" value="1552" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UItestframework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UItestframework-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UItestframework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UItestframework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UItestframework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UItestframework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UItestframework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UItestframework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="testdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UItestframework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UItestframework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UItestframework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UItestframework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UItestframework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UItestframework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UItestframework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UItestframework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UItestframework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UItestframework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UItestframework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UItestframework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UItestframework-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UItestframework-master" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ToolWindowDatabase Changes.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\daima\UItestframework-master\testcase" />
+      <recent name="E:\Python-Project\UItestframework\config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python-Project\UItestframework\public\common" />
+      <recent name="E:\Python-Project\UItestframework\report\testreport" />
+      <recent name="E:\Python-Project\UItestframework\data\testdata" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Nosetests for test_zaozuo_logout.TestZaoZuoLogout.test_logout_case">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UItestframework" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="zaozuoMyProfilePage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UItestframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/public/pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/public/pages/zaozuoMyProfilePage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for test_zaozuo_buygoods.TestZaoZuoBuyGoods.test_buy_suite" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="UItestframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_zaozuo_buygoods.TestZaoZuoBuyGoods.test_buy_suite&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="UItestframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for test_zaozuo_logout.TestZaoZuoLogout.test_logout_case" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="UItestframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_zaozuo_logout.TestZaoZuoLogout.test_logout_case&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests in test_zaozuo_buygoods.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="UItestframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_zaozuo_buygoods.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.zaozuoMyProfilePage" />
+      <item itemvalue="Python tests.Nosetests for test_zaozuo_buygoods.TestZaoZuoBuyGoods.test_buy_suite" />
+      <item itemvalue="Python tests.Nosetests for test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress" />
+      <item itemvalue="Python tests.Nosetests for test_zaozuo_logout.TestZaoZuoLogout.test_logout_case" />
+      <item itemvalue="Python tests.Nosetests in test_zaozuo_buygoods.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Nosetests for test_zaozuo_logout.TestZaoZuoLogout.test_logout_case" />
+        <item itemvalue="Python tests.Nosetests for test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress" />
+        <item itemvalue="Python.zaozuoMyProfilePage" />
+        <item itemvalue="Python tests.Nosetests for test_zaozuo_buygoods.TestZaoZuoBuyGoods.test_buy_suite" />
+        <item itemvalue="Python tests.Nosetests in test_zaozuo_buygoods.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a54329e-4875-47e6-bc82-5304d7ab38df" name="Default" comment="" />
+      <created>1478222299195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478222299195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_in_test_zaozuo_buygoods_py - 2019.09.03 at 14h 57m 26s.xml">
+      <configuration name="Nosetests in test_zaozuo_buygoods.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_zaozuo_buygoods_TestZaoZuoBuyGoods_test_buy_suite - 2019.09.03 at 15h 01m 28s.xml">
+      <configuration name="Nosetests for test_zaozuo_buygoods.TestZaoZuoBuyGoods.test_buy_suite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_zaozuo_change_address_ZaoZuoMyProfilePage_test_zaozuo_add_adress - 2019.09.03 at 15h 03m 34s.xml">
+      <configuration name="Nosetests for test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_zaozuo_change_address_ZaoZuoMyProfilePage_test_zaozuo_add_adress - 2019.09.03 at 15h 07m 27s.xml">
+      <configuration name="Nosetests for test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_zaozuo_change_address_ZaoZuoMyProfilePage_test_zaozuo_add_adress - 2019.09.03 at 15h 08m 45s.xml">
+      <configuration name="Nosetests for test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_zaozuo_change_address_ZaoZuoMyProfilePage_test_zaozuo_add_adress - 2019.09.03 at 15h 11m 30s.xml">
+      <configuration name="Nosetests for test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_zaozuo_change_address_ZaoZuoMyProfilePage_test_zaozuo_add_adress - 2019.09.03 at 15h 14m 55s.xml">
+      <configuration name="Nosetests for test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_zaozuo_change_address_ZaoZuoMyProfilePage_test_zaozuo_add_adress - 2019.09.03 at 15h 17m 11s.xml">
+      <configuration name="Nosetests for test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_zaozuo_change_address_ZaoZuoMyProfilePage_test_zaozuo_add_adress - 2019.09.03 at 15h 18m 28s.xml">
+      <configuration name="Nosetests for test_zaozuo_change_address.ZaoZuoMyProfilePage.test_zaozuo_add_adress" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_zaozuo_logout_TestZaoZuoLogout_test_logout_case - 2019.09.03 at 15h 21m 51s.xml">
+      <configuration name="Nosetests for test_zaozuo_logout.TestZaoZuoLogout.test_logout_case" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1996" y="70" width="1552" height="840" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17965654" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.61635834" />
+      <window_info anchor="bottom" id="Database Changes" order="1" weight="0.32850942" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49946696" weight="0.468039" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.38851023" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.33300877" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.13748191" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.19182083" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" weight="9.7370986E-4" />
+      <window_info anchor="right" id="SciView" order="0" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24973205" />
+      <window_info anchor="right" id="Database" order="4" weight="0.4175603" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16044776" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32911393" />
+      <window_info anchor="bottom" id="Database Changes" order="1" weight="0.32850942" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49946696" weight="0.20155793" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.38851023" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.33300877" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.19247468" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" weight="9.7370986E-4" />
+      <window_info anchor="right" id="SciView" order="0" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24973205" />
+      <window_info anchor="right" id="Database" order="4" weight="0.1988273" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/interfaceTest/testCase/test_hfs_case_login.py" />
+    <entry file="file://F:/interfaceTest/testCase/test_hfs_case_login1.py" />
+    <entry file="file://F:/interfaceTest/testCase/test_update_favorite_statues.py" />
+    <entry file="file://F:/interfaceTest/testCase/test_hfs_get_cookie.py" />
+    <entry file="file://F:/web-ui/abc/test_case/request.py" />
+    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/common/action_chains.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/nose/loader.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/nose/failure.py" />
+    <entry file="file://C:/Python37/Lib/unittest/case.py" />
+    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/xlrd/book.py" />
+    <entry file="file://F:/web-ui/abc/test_case/test_Clogin_screenshot.py" />
+    <entry file="file://F:/web-ui/abc/test_case/test_Alogin.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cde146f8-9dd9-44fd-80c2-8905aae02948/console_4.sql" />
+    <entry file="file://$PROJECT_DIR$/readme.md" />
+    <entry file="file://$PROJECT_DIR$/public/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2167" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_nosetest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files/Python37/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-897">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/BaiduNetdiskDownload/柠檬班万科笔试题解法二.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/BaiduNetdiskDownload/柠檬班万科笔试题解法一.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67" />
+      </provider>
+    </entry>
+    <entry file="file://D:/BaiduNetdiskDownload/柠檬班万科笔试题(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/common/basepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/common/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/common/datainfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1154">
+          <caret line="99" column="14" lean-forward="true" selection-start-line="63" selection-end-line="95" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3135" selection-start-column="3135" selection-end-column="3135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2075">
+          <caret line="769" selection-start-line="769" selection-end-line="770" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/common/mytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/common/publicfunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/common/pyselenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/common/readconfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/method/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#68#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_zaozuo_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="e#68#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pages/zaozuologinPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pages/zaozuo_shaidanPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="e#68#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pages/zaozuoindexPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#68#102#0" expanded="true" />
+            <marker date="1542353447665" expanded="true" signature="1003:1198" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pages/zaozuoBuyGoodsPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#68#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_zaozuo_buygoods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+          <folding>
+            <element signature="e#68#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_zaozuo_logout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pages/zaozuoMyProfilePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+          <folding>
+            <element signature="e#68#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_zaozuo_Evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <element signature="e#69#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_zaozuo_change_address.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pages/zaozuoMyorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/common/sendmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/common/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/globalparam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/log/2019-09-02.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-3133" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/log/2019-09-03.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-13874" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/geckodriver.log">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-1624" />
+      </provider>
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-9798" />
+      </provider>
+    </entry>
+  </component>
+</project>
